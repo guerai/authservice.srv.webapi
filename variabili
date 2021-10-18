@@ -1,5 +1,4 @@
-Var1: 'variabile1'
-Var2: 'variabile2'
-Var3: 'variabile3'
+Nickname: authservice.srv.webapi
+path: /nginx-jerk
 ReplicaSet: 3
 Container_Registry_Base: unitn.icts
